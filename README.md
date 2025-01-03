@@ -13,8 +13,10 @@ You can use additional data based on your own research to support your recommend
 Be creative with your presentation, audio/video presentation will have more weightage. You will be presenting these insights to the chief editor Bruce Haryali – he appreciates good storytelling and concise presentation. 
 Other resources Provided: 
 
-Dataset required to answer preliminary analysis questions. 
-Metadata 
+Dataset required to answer preliminary analysis questions
+ 
+Metadata
+ 
 Supporting documents
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
